@@ -1,7 +1,7 @@
 {
-    "name": "thomasbachem/php-gacx",
+    "name": "nosnickid/php-gacx",
     "description": "Server-Side GA Content Experiments",
-    "homepage": "https://github.com/thomasbachem/php-gacx",
+    "homepage": "https://github.com/nosnickid/php-gacx",
     "type": "library",
     "license": "LGPL-3.0",
     "authors": [
